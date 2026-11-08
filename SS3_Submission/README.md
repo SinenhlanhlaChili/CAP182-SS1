@@ -123,10 +123,14 @@ The model is intended as an exploratory decision-support baseline and not as a r
 ### 10. Presentation and Video Submission
 
 The Part C presentation is included in this repository.
+https://youtu.be/mo8dIgsmSm8
+
 
 **Presentation:** `SS3_PartC_Presentation.pptx`
 
 **Video presentation link:** To be added after recording and uploading the presentation video.
+
+**Recorded presentation:** https://youtu.be/mo8dIgsmSm8
 
 ### 11. Part A – Peer Review
 
